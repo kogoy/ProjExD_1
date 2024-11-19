@@ -39,7 +39,7 @@ def main():
         screen.blit(kk_img,kk_rct) 
         pg.display.update()
         tmr += 1        
-        clock.tick(201)
+        clock.tick(202)
 
 
 if __name__ == "__main__":
